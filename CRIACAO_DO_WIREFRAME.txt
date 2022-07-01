@@ -1,8 +1,0 @@
- Componentes Essenciais Em Um Wireframe
-
-      arquitetura da informação:
- organização do conteúdo e dos componentes visuais capazes de garantir uma experiência agradável para o usuário;
-      estrutura de navegação:
- elementos e mapas de navegação que corroborem para uma navegação lógica e precisa;
-      projeto de layout:
- esboço de alguns elementos visuais para orientar a produção de arte e webdesign.
