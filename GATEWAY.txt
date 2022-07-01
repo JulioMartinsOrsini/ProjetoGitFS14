@@ -1,0 +1,9 @@
+ MEIOS DE PAGAMENTO
+ cartões de crédito
+  cartão de débito
+  boleto bancário
+ transferências eletrônicas, como o Pix
+ pagamentos recorrentes
+ pagamento por aproximação
+ pagamento via QR Code
+ carteira digital
